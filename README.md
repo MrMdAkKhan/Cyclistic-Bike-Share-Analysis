@@ -58,8 +58,20 @@ The data integrity was checked and deemed unbiased.
 ## Analyze Phase:
 1. Which bike is the most used for both members and casual riders?
 
-3. How many members and casual riders does Cyclistic have?
-4. Which day has the most number of riders for both members and casual riders?
-5. Which month has the most number of riders for both members and casual riders?
-6. What time do both users usually start their trip?
-7. Where do the users usually start their trip?
+![file1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/7c3ec42d-0c51-48c1-9eb9-9db6f0009724)
+
+![file 2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/0094230c-f23e-4459-8aca-fdf73458cbc7)
+
+2. How many members and casual riders does Cyclistic have?
+
+![file 2-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/417ac19c-3fda-4ee7-a60b-6471007dee32)
+
+3. Which day has the most number of riders for both members and casual riders?
+
+![file3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/e0947517-31c7-4237-ae67-17c3a8a7219e)
+
+![file 3-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/04aed2e4-a4e4-47fb-92c8-d0c73c253225)
+
+6. Which month has the most number of riders for both members and casual riders?
+7. What time do both users usually start their trip?
+8. Where do the users usually start their trip?
