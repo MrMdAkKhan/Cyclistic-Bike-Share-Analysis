@@ -117,14 +117,13 @@ The share phase presents the insights and findings derived from the analysis of 
 
 **1. Which bike is the most used for both members and casual riders?**
 
-![p-3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/92ebe767-5004-4160-9bfd-ca152075b290)
-
-**2. How many members and casual riders does Cyclistic have?**
-
 ![P-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/027d9acc-5d0c-42ff-9ac1-7a73821959f6)
 
 ![P-2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/de7214ed-4e86-4d45-b60c-f59d3f3bb754)
 
+**2. How many members and casual riders does Cyclistic have?**
+
+![p-3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/92ebe767-5004-4160-9bfd-ca152075b290)
 
 **3. Which day has the most number of riders for both members and casual riders?**
 
@@ -148,6 +147,13 @@ The share phase presents the insights and findings derived from the analysis of 
 
 [Visualization using Power BI.pdf](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/files/14601269/Visualization.using.Power.BI.pdf)
 
+--Due to Liscensing restrictions in Power BI, I was able to attach only a pdf file for visualization report.
+
+## Act Phase:
+
+### Insights: 
+
+### Recommendations: 
 
 
 
