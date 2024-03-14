@@ -188,4 +188,16 @@ GROUP BY
 ORDER BY
     total_riders DESC;
 
+---Average Ride Duration in minutes, member and casual riders
+SELECT 
+    member_casual,
+    AVG(ride_length_in_mins) AS avg_ride_length
+FROM 
+    filtered_cyclistic_annual_data
+WHERE 
+    member_casual IN ('member', 'casual')
+GROUP BY 
+    member_casual
+ORDER BY 
+    member_casual;
 
