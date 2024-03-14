@@ -22,7 +22,6 @@ I need to analyze how annual members and casual riders use bikes differently by 
 * Number of Rides per Day
 * Average Ride Duration by Day (in minutes)
 * Frequency of Rides per Hour
-* Percentage of rides per Season
 * Top places where most of the riders started their trip.
 
 ## Prepare Phase:
@@ -55,3 +54,12 @@ The data integrity was checked and deemed unbiased.
 * **Importing Data:** The monthly files containing the ride data were imported into SQL Server.
 * **Merging Data:** A new table named “cyclistic_annual_data” was created to store the consolidated data for the entire year.The data from tables were merged into the “cyclistic_annual_data” table using the UNION ALL statement.
 * **Manipulate Data:** After merging and filtering data a new table named “filtered_cyclistic_annual_data” was generated. This table includes additional columns such as “month,” “day,” “hour,” and “duration_minutes” to facilitate the comparison and analysis of ride frequencies.
+
+## Analyze Phase:
+1. Which bike is the most used for both members and casual riders?
+
+3. How many members and casual riders does Cyclistic have?
+4. Which day has the most number of riders for both members and casual riders?
+5. Which month has the most number of riders for both members and casual riders?
+6. What time do both users usually start their trip?
+7. Where do the users usually start their trip?
