@@ -47,6 +47,8 @@ The data integrity was checked and deemed unbiased.
 
 ## Process Phase:
 ### Data Cleaning and Transformation in SQL:
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
 * **Checking for Duplicates:** The duplicate values were examined and filtered out. This helped ensure data integrity and eliminate any duplicated entries.
 * **Validating Column Values:** The values in specific columns, such as rideable_type and member_casual, were verified to ensure consistency and accuracy. The only valid values, including classic_bike, docked_bike, electric_bike for rideable_type, and casual, member for member_casual, were retained.
 * **Removing Blank Values:** The data set was checked for incomplete or blank values across all columns. Rows with missing values, particularly in columns like start_station_name, start_station_id, end_station_name, and end_station_id, were removed to ensure data completeness.
