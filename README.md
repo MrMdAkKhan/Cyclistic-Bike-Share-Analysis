@@ -47,5 +47,11 @@ The data integrity was checked and deemed unbiased.
 * Microsoft Power BI
 
 ## Process Phase:
-
-
+### Data Cleaning and Transformation in SQL:
+* **Checking for Duplicates:** The duplicate values were examined and filtered out. This helped ensure data integrity and eliminate any duplicated entries.
+* **Validating Column Values:** The values in specific columns, such as rideable_type and member_casual, were verified to ensure consistency and accuracy. The only valid values, including classic_bike, docked_bike, electric_bike for rideable_type, and casual, member for member_casual, were retained.
+* **Removing Blank Values:** The data set was checked for incomplete or blank values across all columns. Rows with missing values, particularly in columns like start_station_name, start_station_id, end_station_name, and end_station_id, were removed to ensure data completeness.
+* **Adding Columns:** Columns Like start_day_of_week, started_month, started_hour, ride_length_in_minutes were added to calculate ride length, day of the week and month when the ride started, as well as the hour of the day.
+* **Importing Data:** The monthly files containing the ride data were imported into SQL Server.
+* **Merging Data:** A new table named “cyclistic_annual_data” was created to store the consolidated data for the entire year.The data from tables were merged into the “cyclistic_annual_data” table using the UNION ALL statement.
+* **Manipulate Data:** After merging and filtering data a new table named “filtered_cyclistic_annual_data” was generated. This table includes additional columns such as “month,” “day,” “hour,” and “duration_minutes” to facilitate the comparison and analysis of ride frequencies.
