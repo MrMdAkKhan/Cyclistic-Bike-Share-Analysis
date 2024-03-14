@@ -56,55 +56,99 @@ The data integrity was checked and deemed unbiased.
 * **Manipulate Data:** After merging and filtering data a new table named “filtered_cyclistic_annual_data” was generated. This table includes additional columns such as “month,” “day,” “hour,” and “duration_minutes” to facilitate the comparison and analysis of ride frequencies.
 
 ## Analyze Phase:
-1. Which bike is the most used for both members and casual riders?
+**1. Which bike is the most used for both members and casual riders?**
 
-Member:
+   Member:
 
 ![file1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/7c3ec42d-0c51-48c1-9eb9-9db6f0009724)
 
-Casual:
+   Casual:
 
 ![file 2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/0094230c-f23e-4459-8aca-fdf73458cbc7)
 
-2. How many members and casual riders does Cyclistic have?
+**2. How many members and casual riders does Cyclistic have?**
 
-Member:
+   Member:
 
 ![file 2-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/417ac19c-3fda-4ee7-a60b-6471007dee32)
 
-Casual:
 
-3. Which day has the most number of riders for both members and casual riders?
+**3. Which day has the most number of riders for both members and casual riders?**
 
-Member:
+   Member:
 
 ![file3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/e0947517-31c7-4237-ae67-17c3a8a7219e)
 
-Casual:
+   Casual:
 
 ![file 3-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/04aed2e4-a4e4-47fb-92c8-d0c73c253225)
 
-4. Which month has the most number of riders for both members and casual riders?
+**4. Which month has the most number of riders for both members and casual riders?**
 
-Member:
+   Member:
 
 ![file 4](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/1841fbb3-932e-49db-a479-03daf3d77519)
 
-Casual:
+   Casual:
 
 ![file 4-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/89c5b825-5326-4b28-8328-fcb8a2c62966)
 
-5. What time do both users usually start their trip?
+**5. What time do both users usually start their trip?**
 
  ![file 5](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/91db6f1e-4dc1-4bc5-92d7-0217ac5083a2)
 
 
-8. Where do the users usually start their trip?
+**6. Where do the users usually start their trip?**
 
-Member:
+   Member:
 
 ![file 6-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/f5f021a3-4b94-4397-afc3-a32e4b1b23f4)
 
-Casual:
+   Casual:
 
 ![file 6](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/a9239193-2761-49eb-b601-627c2fbc3d88)
+
+**7. What is the Avereage ride duration by members and casual riders in minutes?**
+
+![file 7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/1a4da3a0-c2a6-41d0-8251-b53fe64228bd)
+
+## Share Phase:
+The share phase presents the insights and findings derived from the analysis of Cyclistic Bike Share data using Microsoft Power BI, a powerful data visualization tool. The analysis revealed several key findings:
+
+**1. Which bike is the most used for both members and casual riders?**
+
+![p-3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/92ebe767-5004-4160-9bfd-ca152075b290)
+
+**2. How many members and casual riders does Cyclistic have?**
+
+![P-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/027d9acc-5d0c-42ff-9ac1-7a73821959f6)
+
+![P-2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/de7214ed-4e86-4d45-b60c-f59d3f3bb754)
+
+
+**3. Which day has the most number of riders for both members and casual riders?**
+
+![p-4](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/aab23832-91d7-4403-9147-66ceeb994f97)
+
+![p-5](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/bf5dc12c-8ffb-4d89-bc44-519031219eae)
+
+**4. Which month has the most number of riders for both members and casual riders?**
+
+![p-6](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/6443c2c0-f761-48fa-b535-78bf1134ac53)
+
+![p-7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/5e565b9e-3d73-45ea-b3ed-1151d92a062e)
+
+**5. What time do both users usually start their trip?**
+
+![p-8](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/851aff51-fbef-4873-a2bf-17de63eb5f48)
+
+![p-9](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/54ac4987-827c-463c-9c30-96dbf625b60e)
+
+### Complete Dashboard
+
+[Visualization using Power BI.pdf](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/files/14601269/Visualization.using.Power.BI.pdf)
+
+
+
+
+
