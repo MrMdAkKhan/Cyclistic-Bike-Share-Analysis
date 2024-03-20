@@ -1,6 +1,6 @@
 # Cyclistic-Bike-Share-Analysis
 
-![Logo Image](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/e630f404-7a2c-4334-904a-bac9f9ee337f)
+![Logo Image 1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/f90e5d6d-0d69-4fa9-9670-6086a0935e15)
 
 
 ## Scenario
