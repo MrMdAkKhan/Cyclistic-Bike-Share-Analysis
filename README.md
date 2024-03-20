@@ -60,6 +60,8 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 ## Analyze Phase:
 **1. Which bike is the most used for both members and casual riders?**
 
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
    Member:
 
 ![file1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/7c3ec42d-0c51-48c1-9eb9-9db6f0009724)
@@ -70,12 +72,16 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
 **2. How many members and casual riders does Cyclistic have?**
 
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
    Member:
 
 ![file 2-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/417ac19c-3fda-4ee7-a60b-6471007dee32)
 
 
 **3. Which day has the most number of riders for both members and casual riders?**
+
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
 
    Member:
 
@@ -87,6 +93,8 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
 **4. Which month has the most number of riders for both members and casual riders?**
 
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
    Member:
 
 ![file 4](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/1841fbb3-932e-49db-a479-03daf3d77519)
@@ -97,10 +105,14 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
 **5. What time do both users usually start their trip?**
 
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
  ![file 5](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/91db6f1e-4dc1-4bc5-92d7-0217ac5083a2)
 
 
 **6. Where do the users usually start their trip?**
+
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
 
    Member:
 
@@ -112,6 +124,8 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
 **7. What is the Avereage ride duration by members and casual riders in minutes?**
 
+SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
+
 ![file 7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/1a4da3a0-c2a6-41d0-8251-b53fe64228bd)
 
 ## Share Phase:
@@ -119,15 +133,21 @@ The share phase presents the insights and findings derived from the analysis of 
 
 **1. Which bike is the most used for both members and casual riders?**
 
+Ans. The classic bike is the most used bike for both riders.
+
 ![P-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/027d9acc-5d0c-42ff-9ac1-7a73821959f6)
 
 ![P-2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/de7214ed-4e86-4d45-b60c-f59d3f3bb754)
 
 **2. How many members and casual riders does Cyclistic have?**
 
+Ans. 65.61% are members, but still, we need to find ways to increase the Cyclistic annual members.
+
 ![p-3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/92ebe767-5004-4160-9bfd-ca152075b290)
 
 **3. Which day has the most number of riders for both members and casual riders?**
+
+Ans. The members, they are usually riding during the weekdays but our casual riders, mostly are riding during the weekends.
 
 ![p-4](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/aab23832-91d7-4403-9147-66ceeb994f97)
 
@@ -135,11 +155,15 @@ The share phase presents the insights and findings derived from the analysis of 
 
 **4. Which month has the most number of riders for both members and casual riders?**
 
+Ans. Both casual and member riders use bikes more in the summer, particularly in July and August
+
 ![p-6](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/6443c2c0-f761-48fa-b535-78bf1134ac53)
 
 ![p-7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/5e565b9e-3d73-45ea-b3ed-1151d92a062e)
 
 **5. What time do both users usually start their trip?**
+
+Ans. Trips for both members and casual riders often start around 5 PM.
 
 ![p-8](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/851aff51-fbef-4873-a2bf-17de63eb5f48)
 
