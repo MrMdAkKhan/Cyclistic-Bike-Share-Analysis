@@ -155,7 +155,17 @@ The share phase presents the insights and findings derived from the analysis of 
 
 ### Insights: 
 
+* Members prefer riding bikes on weekdays, especially Wednesdays, which are their busiest days.
+* Casual riders like riding on weekends, especially Sundays, which is when they ride the most.
+* Casual riders often take longer rides than members, showing that they have different preferences for how long they ride.
+* The majority of these trips for both member and casual riders commence around 5 PM.
+* Most members start their trips at "Kingsbury St & Kinzie St" station whereas most casual riders opt to start at 
+* Both casual and member riders use bikes more in the summer, particularly in July and August, probably because the weather is better.
+* However, bike use drops a lot during the winter, especially in December, January, and February. This is likely because the snow in Chicago makes biking less convenient or enjoyable.
+
 ### Recommendations: 
+
+
 
 
 
