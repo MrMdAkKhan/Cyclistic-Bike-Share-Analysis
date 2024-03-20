@@ -1,4 +1,8 @@
 # Cyclistic-Bike-Share-Analysis
+
+![Logo Image](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/e630f404-7a2c-4334-904a-bac9f9ee337f)
+
+
 ## Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 ## About Cyclistic
@@ -43,6 +47,7 @@ The data integrity was checked and deemed unbiased.
 
 ### Tools used in Analysis
 * PostgreSQL – pgAdmin4
+* MS Excel
 * Microsoft Power BI
 
 ## Process Phase:
@@ -58,6 +63,7 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 * **Manipulate Data:** After merging and filtering data a new table named “filtered_cyclistic_annual_data” was generated. This table includes additional columns such as “month,” “day,” “hour,” and “duration_minutes” to facilitate the comparison and analysis of ride frequencies.
 
 ## Analyze Phase:
+
 **1. Which bike is the most used for both members and casual riders?**
 
 SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
@@ -69,6 +75,7 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
    Casual:
 
 ![file 2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/0094230c-f23e-4459-8aca-fdf73458cbc7)
+
 
 **2. How many members and casual riders does Cyclistic have?**
 
@@ -91,6 +98,7 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
 ![file 3-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/04aed2e4-a4e4-47fb-92c8-d0c73c253225)
 
+
 **4. Which month has the most number of riders for both members and casual riders?**
 
 SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/blob/main/Analysis%20using%20SQL.sql)
@@ -102,6 +110,7 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
    Casual:
 
 ![file 4-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/89c5b825-5326-4b28-8328-fcb8a2c62966)
+
 
 **5. What time do both users usually start their trip?**
 
@@ -116,11 +125,13 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 
    Member:
 
-![file 6-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/f5f021a3-4b94-4397-afc3-a32e4b1b23f4)
+![file 6](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/a9239193-2761-49eb-b601-627c2fbc3d88)
+
 
    Casual:
 
-![file 6](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/a9239193-2761-49eb-b601-627c2fbc3d88)
+![file 6-1](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/f5f021a3-4b94-4397-afc3-a32e4b1b23f4)
+
 
 **7. What is the Avereage ride duration by members and casual riders in minutes?**
 
@@ -129,6 +140,7 @@ SQL Query : [Link](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/b
 ![file 7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/1a4da3a0-c2a6-41d0-8251-b53fe64228bd)
 
 ## Share Phase:
+
 The share phase presents the insights and findings derived from the analysis of Cyclistic Bike Share data using Microsoft Power BI, a powerful data visualization tool. The analysis revealed several key findings:
 
 **1. Which bike is the most used for both members and casual riders?**
@@ -139,11 +151,13 @@ Ans. The classic bike is the most used bike for both riders.
 
 ![P-2](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/de7214ed-4e86-4d45-b60c-f59d3f3bb754)
 
+
 **2. How many members and casual riders does Cyclistic have?**
 
 Ans. 65.61% are members, but still, we need to find ways to increase the Cyclistic annual members.
 
 ![p-3](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/92ebe767-5004-4160-9bfd-ca152075b290)
+
 
 **3. Which day has the most number of riders for both members and casual riders?**
 
@@ -153,6 +167,7 @@ Ans. The members, they are usually riding during the weekdays but our casual rid
 
 ![p-5](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/bf5dc12c-8ffb-4d89-bc44-519031219eae)
 
+
 **4. Which month has the most number of riders for both members and casual riders?**
 
 Ans. Both casual and member riders use bikes more in the summer, particularly in July and August
@@ -161,6 +176,7 @@ Ans. Both casual and member riders use bikes more in the summer, particularly in
 
 ![p-7](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/5e565b9e-3d73-45ea-b3ed-1151d92a062e)
 
+
 **5. What time do both users usually start their trip?**
 
 Ans. Trips for both members and casual riders often start around 5 PM.
@@ -168,6 +184,7 @@ Ans. Trips for both members and casual riders often start around 5 PM.
 ![p-8](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/851aff51-fbef-4873-a2bf-17de63eb5f48)
 
 ![p-9](https://github.com/MrMdAkKhan/Cyclistic-Bike-Share-Analysis/assets/163100067/54ac4987-827c-463c-9c30-96dbf625b60e)
+
 
 ### Complete Dashboard
 
@@ -183,11 +200,20 @@ Ans. Trips for both members and casual riders often start around 5 PM.
 * Casual riders like riding on weekends, especially Sundays, which is when they ride the most.
 * Casual riders often take longer rides than members, showing that they have different preferences for how long they ride.
 * The majority of these trips for both member and casual riders commence around 5 PM.
-* Most members start their trips at "Kingsbury St & Kinzie St" station whereas most casual riders opt to start at 
+* Most members start their trips at "Clinton St & Washington Blvd" station whereas most casual riders opt to start at "Streeter Dr & Grand Ave".
 * Both casual and member riders use bikes more in the summer, particularly in July and August, probably because the weather is better.
 * However, bike use drops a lot during the winter, especially in December, January, and February. This is likely because the snow in Chicago makes biking less convenient or enjoyable.
 
-### Recommendations: 
+## Recommendations: 
+
+* Cyclistic could offer weekend promotions exclusively for members to encourage weekend rides. This way, members can enjoy special benefits when riding on weekends, attracting more 
+  casual riders to consider membership.
+
+* To cater to casual riders who often start their trips at "Streeter Dr & Grand Ave", Cyclistic should consider placing more stations in that area. This makes it convenient for casual 
+  riders to access Cyclistic bikes, potentially motivating them to become members for easier access to the station.
+
+* Introducing summer promotions exclusively for Cyclistic members could entice more casual riders to sign up for annual membership. With benefits tailored for summer riding, such as 
+  discounts or special offers, casual riders may find it worthwhile to join Cyclistic to access these promotions during their preferred riding season.
 
 
 
